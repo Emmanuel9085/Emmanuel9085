@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a frontend developer who loves React
+I'm a frontend developer who loves HTML
 
 * ✉️  You can contact me at [emmanuelotieno605@gmail.com](mailto:emmanuelotieno605@gmail.com)
 * 🧠  I'm learning Bootstrap
