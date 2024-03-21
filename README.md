@@ -7,7 +7,7 @@ Web Developer
 I'm a web developer who is dedicated to his work.
 
 * ✉️  You can contact me at [okwanyoemmanuel2020@gmail.com](mailto:okwanyoemmanuel2020@gmail.com)
-*  ✉️  You can contact me via telephone number +254718323673
+*  ✉️  You can contact me via telephone number **+254718323673**
 * 🧠  I'm learning Bootstrap
 * 🤝  I'm open to collaborating on projects
 * ⚡  Still learning
